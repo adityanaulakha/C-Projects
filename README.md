@@ -6,7 +6,7 @@ Welcome to my GitHub repository featuring a collection of my C programming proje
 
 This repository showcases various projects I have worked on using the C programming language. Each project demonstrates my skills in C and my continuous effort to learn and improve. Below is a summary of the projects:
 
-# Voting Machine in C
+# 1. Voting Machine 
 
 Description: This project is a Voting Machine implemented in C, utilizing concepts I learned during my first semester. It includes features like username-password authentication, total vote tallying, and gender selection.
 
